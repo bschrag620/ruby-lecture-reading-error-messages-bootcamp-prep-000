@@ -1,3 +1,3 @@
 "hello world"
 
-local_variables  hello_world
+local_variables hello_world
